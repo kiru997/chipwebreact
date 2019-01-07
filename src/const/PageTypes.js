@@ -1,0 +1,1 @@
+export const PAGE_DETAIL='PAGE_DETAIL';
